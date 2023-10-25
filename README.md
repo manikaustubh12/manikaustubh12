@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **web development and about cyber security**
 
-- 💬 Ask me about **linux, network , security etc**
+- 💬 Ask me about **linux, network , security, web dev, coding etc**
 
 - 📫 How to reach me **manikaustubh123123@gmail.com**
 
